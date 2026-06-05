@@ -9,17 +9,6 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD_Compositor_1.1.dmg" length="853261258" type="application/octet-stream" sparkle:edSignature="J9riAm8acBT2CPVzWUg36o5fYX6jtsblQlaYEr08gUKEGReG9CMSQgWMAIUTzJEw3IFrPFShTN8DR6B/d8jHCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD%20Compositor2-1.delta" sparkle:deltaFrom="1" length="324398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2GwY8sV1ZkS/7xyDLJbMnYEqrdCZBZq5Ca/XKfpQznpVUBck2vYBeRqu8E/cHwZiDLoxQCtN/4ZbJ7e5I2UYAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 02 Jun 2026 21:02:30 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD_Compositor_1.0.dmg" length="849341399" type="application/octet-stream" sparkle:edSignature="+hj6Egz3kU0ARwlFJ+IxYm2AdMC0lyZGwtNefDJtZVcV7mFphCUBRQCOzRIu51OARY+OOMZz1KG7UHqd7k39CQ=="/>
         </item>
     </channel>
 </rss>
