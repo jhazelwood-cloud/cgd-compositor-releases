@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://media.githubusercontent.com/media/jhazelwood-cloud/cgd-compositor-releases/main/CGD_Compositor_1.1.dmg" length="853261258" type="application/octet-stream" sparkle:edSignature="J9riAm8acBT2CPVzWUg36o5fYX6jtsblQlaYEr08gUKEGReG9CMSQgWMAIUTzJEw3IFrPFShTN8DR6B/d8jHCw=="/>
+            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.1/CGD_Compositor_1.1.dmg" length="853261258" type="application/octet-stream" sparkle:edSignature="J9riAm8acBT2CPVzWUg36o5fYX6jtsblQlaYEr08gUKEGReG9CMSQgWMAIUTzJEw3IFrPFShTN8DR6B/d8jHCw=="/>
         </item>
     </channel>
 </rss>
