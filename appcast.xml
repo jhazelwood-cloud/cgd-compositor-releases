@@ -9,18 +9,6 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.2/CGD_Compositor_1.2.dmg" length="852425581" type="application/octet-stream" sparkle:edSignature="w7m3h9h6e8LIH0EmzVFbVVKj/3R1zYBElDuz+CImo24OXV0rKbDy/Opugn7U54kOrllSjI4JUpyC0HIrwVIeBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD%20Compositor3-2.delta" sparkle:deltaFrom="2" length="270890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KAvUZN0y8EytfjwC49u3MolIvV2FKL6aWIjTd7c4fLCSgY25vYBGjEaIwNlOYIMCGHOSAlP9YsQdgTs0sNkqAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD%20Compositor3-1.delta" sparkle:deltaFrom="1" length="357214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RgvLdI/cOvJ3edpWBPSkInEvdoBLzRq7cAl24JOG8oyHh2hVuQsAIhb3Srqx/lQekSOdqmN3at9hVqCcEx2VDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Fri, 05 Jun 2026 02:08:41 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD_Compositor_1.1.dmg" length="853261258" type="application/octet-stream" sparkle:edSignature="J9riAm8acBT2CPVzWUg36o5fYX6jtsblQlaYEr08gUKEGReG9CMSQgWMAIUTzJEw3IFrPFShTN8DR6B/d8jHCw=="/>
         </item>
     </channel>
 </rss>
