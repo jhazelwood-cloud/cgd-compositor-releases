@@ -3,23 +3,12 @@
     <channel>
         <title>CGD Compositor</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Fri, 12 Jun 2026 16:48:09 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <title>1.4</title>
+            <pubDate>Fri, 10 Jul 2026 16:41:16 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.3/CGD_Compositor_1.3.dmg" length="847249815" type="application/octet-stream" sparkle:edSignature="Sn0fkdsosg/S+yh8Y0elq2tcTeoTKJXkbszFo8YE3CjT39rjx4kUkG2JF/V8W+iPyb1Mk7Yqr0MW7bnNdAewBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD%20Compositor4-3.delta" sparkle:deltaFrom="3" length="194886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f/k7TrVify94/tBJDuLMlBMfMJSsz2cTUumpkSg91PV6LmQoIoy8lwIWjBBJkvOpR/Zf48vKwhmzAah1yh86Bg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Mon, 08 Jun 2026 15:17:59 -0400</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD_Compositor_1.2.dmg" length="852425581" type="application/octet-stream" sparkle:edSignature="w7m3h9h6e8LIH0EmzVFbVVKj/3R1zYBElDuz+CImo24OXV0rKbDy/Opugn7U54kOrllSjI4JUpyC0HIrwVIeBQ=="/>
+            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.4/CGD_Compositor_1.4.dmg" length="854361719" type="application/octet-stream" sparkle:edSignature="Yy1WywSMuX1vz3V0k19AfH7+BYM3YZtHEykovzr1+SaL/51idJ4QIT9+lLm2LxwqoA88Jjukf1UU67wNZvl6DQ=="/>
         </item>
     </channel>
 </rss>
