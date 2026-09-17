@@ -3,12 +3,23 @@
     <channel>
         <title>CGD Compositor</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Thu, 17 Sep 2026 17:55:43 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.6/CGD_Compositor_1.6.dmg" length="854395616" type="application/octet-stream" sparkle:edSignature="Kv3FzWkJefkw4R8wZbKG8d0OkAN3dBeidk4Lx8+2NwKHMXmGccRDXVjOGYOzMUDdnijiXKBpnseWl8I7zYd7Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD%20Compositor7-6.delta" sparkle:deltaFrom="6" length="355826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7u40TxOCbbpJV2+c25T+VVC/y3nSRJ2NDpqRKQ3toDv5xT20e9oBMAyOcpA4jz6NTZ/BOzZc6hQqfhI4bCyvDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Fri, 21 Aug 2026 12:40:33 -0400</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.5/CGD_Compositor_1.5.dmg" length="852111521" type="application/octet-stream" sparkle:edSignature="PF0TlPeOANv1K282NvSCkEu67+PZHgy9JlnRONbW4oiax97hBFSV+GwZ51V4cPRP1zRoTPtxxLDSoMdIJdPICQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/jhazelwood-cloud/cgd-compositor-releases/main/CGD_Compositor_1.5.dmg" length="852111521" type="application/octet-stream" sparkle:edSignature="PF0TlPeOANv1K282NvSCkEu67+PZHgy9JlnRONbW4oiax97hBFSV+GwZ51V4cPRP1zRoTPtxxLDSoMdIJdPICQ=="/>
         </item>
     </channel>
 </rss>
