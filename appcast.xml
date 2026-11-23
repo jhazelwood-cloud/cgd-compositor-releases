@@ -3,12 +3,12 @@
     <channel>
         <title>CGD Compositor</title>
         <item>
-            <title>1.8</title>
-            <pubDate>Fri, 06 Nov 2026 11:08:31 -0500</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <title>1.9</title>
+            <pubDate>Mon, 23 Nov 2026 15:27:26 -0500</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.8/CGD_Compositor_1.8.dmg" length="858506762" type="application/octet-stream" sparkle:edSignature="p0MbBMPYTPLEqTJz0R8+5HO2QUGc5Cr1bgSNOXNiSf7jCkkPHdfKJ/FupANWTRhJAtbeZJ+X7hkvtOrcz7IQBw=="/>
+            <enclosure url="https://github.com/jhazelwood-cloud/cgd-compositor-releases/releases/download/v1.9/CGD_Compositor_1.9.dmg" length="856776237" type="application/octet-stream" sparkle:edSignature="dp4UBj/wdRBvX8TYvIq881Y+pVth8frI+vStKPN/Me8YOXejYIVZEnS5/8Ke07EhXtHGJFMNd6nIbbjn1Dz5Aw=="/>
         </item>
     </channel>
 </rss>
